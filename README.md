@@ -1,4 +1,15 @@
+# ⚠️ ARCHIVED REPOSITORY
+
+> [!IMPORTANT]
+> This repository has been **archived** and is no longer actively maintained. 
+> All development has moved to the unified **[Roadrunner Monorepo](https://github.com/SteveTarter/roadrunner)**.
+>
+> The active codebase for this component is now located in the monorepo under the **[`apps/roadrunner-view`](https://github.com/SteveTarter/roadrunner/tree/main/apps/roadrunner-view)** directory.
+
+---
+
 # Roadrunner View
+
 
 > **Part of the [Roadrunner](https://github.com/SteveTarter/roadrunner) vehicle-simulation portfolio project.**
 
